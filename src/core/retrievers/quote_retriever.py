@@ -1,0 +1,1 @@
+# Quote retriever implementation
